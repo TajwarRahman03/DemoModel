@@ -4,7 +4,7 @@ A lightweight, interactive demonstration of AI-assisted customer support workflo
 
 ### Live Demo
 
-GitHub Pages deployment is being configured. The verified live-demo link will appear here once publishing is complete.
+[**Launch Live Demo**](https://tajwarrahman03.github.io/DemoModel/)
 
 ### Features
 
